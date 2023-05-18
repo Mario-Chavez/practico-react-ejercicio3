@@ -9,9 +9,9 @@ function App() {
   return (
     <>
     <Container className="my-5 mainPage">
-      <h1 className="display-4 text-center ">Ejercicio 2</h1>
+      <h1 className="display-4 text-center ">Ejercicio 3</h1>
        <hr className='py-4'/>
-       <Hello title={" my Friend! "}/>
+       <Hello title={" my Friend "}/>
     </Container>
     <footer className="bg-dark text-light text-center py-5">
         <p> &copy; Todos los derechos reservados</p>
