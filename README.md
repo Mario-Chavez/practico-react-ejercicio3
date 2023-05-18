@@ -5,5 +5,5 @@
 ## Clonar repo
 
 ```bash
-git clone https://github.com/Mario-Chavez/practico-react-ejercicio2.git
+git clone https://github.com/Mario-Chavez/practico-react-ejercicio3.git
 ```
